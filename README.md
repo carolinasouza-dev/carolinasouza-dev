@@ -1,6 +1,4 @@
-## ⭐ Meu Portifólio
-
-Hello World! 🌎
+## Hello World! 🌎
 
 Me chamo Carolina e sou Desenvolvedora Full Stack. 🌻
 
