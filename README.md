@@ -1,3 +1,5 @@
+<img src="imagem_capa.jpg">
+
 ## Hello World! 🌎
 
 Me chamo Carolina e sou Desenvolvedora Full Stack. 🌻
