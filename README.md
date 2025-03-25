@@ -8,11 +8,11 @@ Aqui, posto alguns projetos pessoais com intuíto de desenvolver meu conheciment
 
 
 ## 👩‍🎓 Sobre mim
-Tenho curso Técnico em Informática e sou formada em Análise e Desenvolvimento de Sistemas. 
+Tenho curso Técnico em Informática e tenho graduação em Análise e Desenvolvimento de Sistemas.
 
-Trabalho atualmente como Freelancer com Desenvolvimento Web (projeto e desenvolvimento de sites, landing page, ecommerce, sistemas de gestão comercial, relatórios e dashboards).💻😀
+Trabalho atualmente como Freelancer com Desenvolvimento Web (projeto e desenvolvimento de sites, landing page, e-commerce, sistemas de gestão comercial, relatórios e dashboards).💻😀
 
-Meu hobbie é comer o que eu gosto, assistir animes, doramas e acompanhar alguns grupos de kpop e também dar carinho para meu cachorro e gatos. 🐶😼
+Meu hobbie é comer o que eu gosto, assistir animes, filmes, doramas, acompanhar alguns grupos de kpop e também brincar com meus bichos. 🐶😼
 
 
 ## ☎️ Contatos
