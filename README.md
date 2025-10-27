@@ -1,4 +1,4 @@
-<img src="imagem_capa.jpg">
+<img src="imagem_capa.png">
 
 ## Hello World! 🌎
 
